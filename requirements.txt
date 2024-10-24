@@ -1,0 +1,5 @@
+django==5.1.2
+django-jazzmin==3.0.1
+openai==1.52.2
+python-dotenv==1.0.1
+markdown==3.7
